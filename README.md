@@ -1,1 +1,2 @@
-# DataVis1
+# DataVis
+## Day 1: part-to-whole 
