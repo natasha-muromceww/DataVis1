@@ -1,4 +1,5 @@
 # DataVis
 ## Day 1: part-to-whole 
-![...](DataVis1/ScreentimePieChartWeek1.png)
+![...](https://github.com/natasha-muromceww/DataVis1/blob/main/ScreentimePieChartWeek1.png)
+
 
