@@ -30,9 +30,8 @@ This assignemnt was to create another pictogram. This time I compared the amount
 
 ## Day 4: Historical Comparison
 ![..](https://github.com/natasha-muromceww/DataVis1/blob/main/HistoricalComparison.png)
-This assingment was to make a historical comparison. I used the sleep data from my garmin watch. I cannot link to the actual data but here is a screenshot of what my garmin watch is tracking:
-![..](https://github.com/natasha-muromceww/DataVis1/blob/main/Screen%20Shot%202021-12-12%20at%2012.19.48%20PM.png)
-I used a matplotlib tutorial (link [here](https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html)) and a jupyter notebook 
-(found [here](https://github.com/natasha-muromceww/DataVis1/blob/main/HistoricalComparison%20.ipynb))
+
+This assignment was to make a historical comparison. I used the sleep data from my garmin watch, a matplotlib tutorial (link [here](https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html)) and a jupyter notebook 
+(found [here](https://github.com/natasha-muromceww/DataVis1/blob/main/HistoricalComparison%20.ipynb)). 
 
 
