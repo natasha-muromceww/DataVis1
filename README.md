@@ -34,4 +34,11 @@ This assignemnt was to create another pictogram. This time I compared the amount
 This assignment was to make a historical comparison. I used the sleep data from my garmin watch, a matplotlib tutorial (link [here](https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html)) and a jupyter notebook 
 (found [here](https://github.com/natasha-muromceww/DataVis1/blob/main/HistoricalComparison%20.ipynb)). 
 
+## Day 5: Magical Comparison
+
+## Day 6: Slope Comparison
+![...](
+
+This assignment was to make a slope comparison, I compared 
+
 
