@@ -35,10 +35,16 @@ This assignment was to make a historical comparison. I used the sleep data from 
 (found [here](https://github.com/natasha-muromceww/DataVis1/blob/main/HistoricalComparison%20.ipynb)). 
 
 ## Day 5: Magical Comparison
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Box%20Office%20Revenue%20%20vs.%20Movie%20.png)
+
+This assignment was to make a "Magical Comparison", the guidelines were pretty broad so I decided to chart data about the number one thing that comes to mind when I think of Magic, Harry Potter. This is a histogram comparing box office revenue between the 8 movies. 
+Link to data source [here](https://www.the-numbers.com/movies/franchise/Harry-Potter#tab=summary). 
 
 ## Day 6: Slope Comparison
 ![...](
 
 This assignment was to make a slope comparison, I compared 
+
+## Day 7: Experimental Comparison 
 
 
