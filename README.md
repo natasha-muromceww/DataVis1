@@ -41,10 +41,14 @@ This assignment was to make a "Magical Comparison", the guidelines were pretty b
 Link to data source [here](https://www.the-numbers.com/movies/franchise/Harry-Potter#tab=summary). 
 
 ## Day 6: Slope Comparison
-![...](
+![...](https://github.com/natasha-muromceww/Group-Task-2/blob/main/Calories%20burned%20at%20the%20gym%20over%2030%20days%20.png)
 
-This assignment was to make a slope comparison, I compared 
+This assignment was to make a slope comparison, I compared calories burned at the gym over 30 days using data from my Garmin Watch. 
 
 ## Day 7: Experimental Comparison 
+![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Odds%20and%20Result%20Attempts%20.png)
+![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Result%20Attempts%20.png)
+
+This experiment was open ended so I looked at data from The Infinite Monkey Theorem Experiment. I thought it would be interesting to look at because the experiment itself is pretty ridiculous and doesn't proved very many results. I compared a few different numbers however the data is hard to view because the range is so large. Data found [here](https://data.world/the-pudding/the-infinite-monkey-theorem-experiment). 
 
 
