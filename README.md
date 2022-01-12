@@ -49,6 +49,9 @@ This assignment was to make a slope comparison, I compared calories burned at th
 ![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Odds%20and%20Result%20Attempts%20.png)
 ![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Result%20Attempts%20.png)
 
-This experiment was open ended so I looked at data from The Infinite Monkey Theorem Experiment. I thought it would be interesting to look at because the experiment itself is pretty ridiculous and doesn't proved very many results. I compared a few different numbers however the data is hard to view because the range is so large. Data found [here](https://data.world/the-pudding/the-infinite-monkey-theorem-experiment). 
+This assignment was open ended so I looked at data from The Infinite Monkey Theorem Experiment. I thought it would be interesting to look at because the experiment itself is pretty ridiculous and doesn't proved very many results. I compared a few different numbers however the data is hard to view because the range is so large. Data found [here](https://data.world/the-pudding/the-infinite-monkey-theorem-experiment). 
 
+## Day 8: Physical Distribution
+![...](https://github.com/natasha-muromceww/DataVis1/blob/main/physical%20distribution.png)
 
+This assignment was to create a physical distribution. I used data from my 2021 closet spreadsheet to represent the amount of tops in my wardrobe I wore during the Spring. 
