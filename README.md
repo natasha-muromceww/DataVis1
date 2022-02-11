@@ -55,3 +55,19 @@ This assignment was open ended so I looked at data from The Infinite Monkey Theo
 ![...](https://github.com/natasha-muromceww/DataVis1/blob/main/physical%20distribution.png)
 
 This assignment was to create a physical distribution. I used data from my 2021 closet spreadsheet to represent the amount of tops in my wardrobe I wore during the Spring. 
+
+## Day 9: Animal Distribution
+
+## Day 10: Distribution - Statistics
+
+## Day 11: Abstract Distribution
+
+## Day 12: Circular Distribution
+
+## Day 13: Strip Distribution
+
+## Day 14: Correlation
+
+## Day 15: Space
+
+## Day 16: Multivariate
