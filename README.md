@@ -57,6 +57,10 @@ This assignment was open ended so I looked at data from The Infinite Monkey Theo
 This assignment was to create a physical distribution. I used data from my 2021 closet spreadsheet to represent the amount of tops in my wardrobe I wore during the Spring. 
 
 ## Day 9: Animal Distribution
+![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Day%209_%20Animal%20Distribution.jpg)
+
+WHen I thought of animals I thought of bugs because there are so many species. I used data from Wikipeida to compare the different amounts of species to their bug orders(a section of bug type) using image size comparison. 
+Link to source [here](https://en.wikipedia.org/wiki/Insect). 
 
 ## Day 10: Distribution - Statistics
 
