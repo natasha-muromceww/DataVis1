@@ -1,4 +1,21 @@
-# DataVis
+# Natasha Muromcew's DataVis Portfolio
+
+# Group Projects:
+## Addison Group Task
+
+Our first group task was to use data from the Addison Gallery of American Art to create a visulization. I worked with Claire de Saint Phalle to 
+
+## Extand Visualization Group Task
+
+# Individual Project:
+
+# Final Project:
+
+
+# Homework Assignments: 
+
+These homework assignments followed the #30DayChartChallenge for which we created a new data visualization before each class. I used a combination of python, jupyter notebook, photoshop, and pandas, plotly, and more to create these. The data sources are linked below each respective visualization. 
+
 ## Day 1: part-to-whole 
 ### iPhone Screentime 11/28 - 12/4
 ![...](https://github.com/natasha-muromceww/DataVis1/blob/main/ScreentimePieChartWeek1.png)
