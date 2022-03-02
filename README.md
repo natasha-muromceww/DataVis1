@@ -5,9 +5,17 @@
 
 Our first group task was to use data from the Addison Gallery of American Art to create a visulization. I worked with Claire de Saint Phalle to 
 
-## Extand Visualization Group Task
+## Extant Visualization Group Task
+
+## Group task 3
 
 # Individual Project:
+
+For the Individual Project I made a visulization of how many classes are held in each building during each class period of the day. I used Python and StreamLit to build a geomap of Andover with 3D visulizations for each building. On StreamLit the user can use the silder to view each period, scroll down for a photo comparison between each period. I collected data from the Winter Term 2022 Master Schedule and used tutorials on the StreamLit documentation (link: https://docs.streamlit.io/). 
+
+Link to StreamLit is [here](https://share.streamlit.io/natasha-muromceww/individual-project/main/BuildingUsageVisualization.py) and link to my code is [here](https://github.com/natasha-muromceww/Individual-Project/blob/main/BuildingUsageVisualization.py). 
+
+Link to the Individual Project Repository [here](https://github.com/natasha-muromceww/Individual-Project). 
 
 # Final Project:
 
