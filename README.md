@@ -2,6 +2,8 @@
 
 This is my portfolio for Term 2 of CSC630: Data Visualizations. Here you can view all of work including my group projects, individual project, final project, and homework assignemnts. 
 
+
+
 # Group Projects:
 ## Addison Group Task
 
@@ -19,10 +21,16 @@ Our final representation:
 
 For the second group task I worked with Claire de Saint Phalle to examine data visualizations by position, size, shape, value, color, orientation, and texture as learned about in a previously done reading about variables in data visualizations linked [here](https://prism.ucalgary.ca/handle/1880/45758). For the first part of the project we found data visualzations that fell under these seven categories. The second part of the project was to create our own set of seven visualizations following the same categories using one dataset. Claire and I used a dataset on Twitter revenue linked [here](https://www.businessofapps.com/data/twitter-statistics/). The third part of this project was to partner with another group and make a new set of seven visualizations uing their data and a new set of "marks" per visualization. We partnered with Dakota Change and Sofia Marina and worked with their visualizations on apple production. 
 
-Link to reposisotry with all 21 data visualizations [here](https://github.com/natasha-muromceww/Group-Task-2). 
+Link to repository with all 21 data visualizations [here](https://github.com/natasha-muromceww/Group-Task-2). 
 
 
-## Group task 3
+## Group task 3: Misleading Graphs 
+
+For the third group task I worked with Brian Masse on a political tweet ananlysis. We used a political tweet dataset linked [here](https://github.com/Brian-Masse/Political-Tweet-Analysis/tree/main/PART%20II/data) to create two data visualizations, one that was clear and easy to read and one that was purposefully hard to understand or misleading. We aimed to find the relationship between target audience and the contents of the tweets. Part of the work in making a visulization good or bad came in the formatting and presentation aspect of it, such as colors, labeling, and font readbility. The other half came form the way the numbers were manipulated in the visualization. So, for a good visulization, we kept he numbers as clean as possible in a "part-to-whole" format where as in the bad visualization we inverted the numbers to purposefully miselad wihtout changeing the raw data. 
+
+Link to full project repository [here](https://github.com/Brian-Masse/Political-Tweet-Analysis/tree/main/PART%20II). 
+
+
 
 # Individual Project:
 
@@ -32,7 +40,10 @@ Link to StreamLit is [here](https://share.streamlit.io/natasha-muromceww/individ
 
 Link to the Individual Project Repository [here](https://github.com/natasha-muromceww/Individual-Project). 
 
+
+
 # Final Project:
+
 
 
 # Homework Assignments: 
