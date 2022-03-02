@@ -15,8 +15,12 @@ Our final representation:
 ![...](https://github.com/natasha-muromceww/Addison-Group-Task/blob/main/Screen%20Shot%202021-12-15%20at%2011.31.51%20AM.png)
 
 
-
 ## Extant Visualization Group Task
+
+For the second group task I worked with Claire de Saint Phalle to examine data visualizations by position, size, shape, value, color, orientation, and texture as learned about in a previously done reading about variables in data visualizations linked [here](https://prism.ucalgary.ca/handle/1880/45758). For the first part of the project we found data visualzations that fell under these seven categories. The second part of the project was to create our own set of seven visualizations following the same categories using one dataset. Claire and I used a dataset on Twitter revenue linked [here](https://www.businessofapps.com/data/twitter-statistics/). The third part of this project was to partner with another group and make a new set of seven visualizations uing their data and a new set of "marks" per visualization. We partnered with Dakota Change and Sofia Marina and worked with their visualizations on apple production. 
+
+Link to reposisotry with all 21 data visualizations [here](https://github.com/natasha-muromceww/Group-Task-2). 
+
 
 ## Group task 3
 
