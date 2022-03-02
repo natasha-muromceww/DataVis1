@@ -1,9 +1,20 @@
 # Natasha Muromcew's DataVis Portfolio
 
+This is my portfolio for Term 2 of CSC630: Data Visualizations. Here you can view all of work including my group projects, individual project, final project, and homework assignemnts. 
+
 # Group Projects:
 ## Addison Group Task
 
-Our first group task was to use data from the Addison Gallery of American Art to create a visulization. I worked with Claire de Saint Phalle to 
+Our first group task was to use data from the Addison Gallery of American Art to create a visulization. I worked with Claire de Saint Phalle to do an exploratory data analysis of the csv and xls files provided by the Addison Gallery of American Art to find a question, answer it, and make a physical/visual representation of that answer. Claire and I questioned the distribution among medium types in the Addison collection and answered it through a pie chart, distribution table, and physical representation of amount of mediums using photos from the Addison website. The chart is a documentation of our data and calculations used to make the final product. We listed the type, amount, percentage, the calulation used to make a scaled visual repesentation, and the dimensions per medium on the project. We divided all of the calculations by 6 to scale it. For the final representation we used collages of photos from the Addison arranged in squares representative of the percentage each medium. We found it surprising how many photographs and printes there were becuase those two categories made up about 65% of the collection.
+
+Link to Addison Group Task Repository for additional documentation [here](https://github.com/natasha-muromceww/Addison-Group-Task). 
+
+Link to the Jupyter notebook used [here](https://github.com/natasha-muromceww/Addison-Group-Task/blob/main/Addison%20Data.ipynb). 
+
+Our final representation:
+![...](https://github.com/natasha-muromceww/Addison-Group-Task/blob/main/Screen%20Shot%202021-12-15%20at%2011.31.51%20AM.png)
+
+
 
 ## Extant Visualization Group Task
 
