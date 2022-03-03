@@ -11,6 +11,13 @@ For the final project our assignment was to create a data visualization that cou
 Link to StreamLit [here](https://share.streamlit.io/natasha-muromceww/finalproject/main/StreamLitVis.py). 
 Link to Project Repository [here](https://github.com/natasha-muromceww/FinalProject). 
 
+Photo 1:
+
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/FinalProjectPhoto1.png)
+
+Photo 2:
+
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/FinalProjectPhoto2.png)
 
 
 # Individual Project:
