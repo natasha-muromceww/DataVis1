@@ -4,6 +4,25 @@ This is my portfolio for Term 2 of CSC630: Data Visualizations. Here you can vie
 
 
 
+# Final Project:
+
+For the final project our assignment was to create a data visualization that could be placed on the large touchscreen in the library basement. When brainstorming how to make good use of such a public and interactive screen, I was inspired by JKE's words asking us as an Andover community to do better. I thought about how I could make a visualization that could spread positivity and lift the spirits of the student body. Working with Chenault Ellis and Claire de Saint Phalle, we came up with the idea of a compliment wall. We used Google Docs to build a survey that collected compliments, emails, and data on the compliments and put the recieved data into a Google Spreadsheet. We used StreamLit, Github, and Python to build a StreamLit App that shows a QR code for students to fill out the survey, recent compliments, and visualizations of the data collected. In order to collect data before the project was public, we asked our friends to fill out the survey and the results have been extremely positive. 
+
+Link to StreamLit [here](https://share.streamlit.io/natasha-muromceww/finalproject/main/StreamLitVis.py). 
+Link to Project Repository [here](https://github.com/natasha-muromceww/FinalProject). 
+
+
+
+# Individual Project:
+
+For the Individual Project I made a visulization of how many classes are held in each building during each class period of the day. I used Python and StreamLit to build a geomap of Andover with 3D visulizations for each building. On StreamLit the user can use the silder to view each period, scroll down for a photo comparison between each period. I collected data from the Winter Term 2022 Master Schedule and used tutorials on the StreamLit documentation (link: https://docs.streamlit.io/). 
+
+Link to StreamLit is [here](https://share.streamlit.io/natasha-muromceww/individual-project/main/BuildingUsageVisualization.py) and link to my code is [here](https://github.com/natasha-muromceww/Individual-Project/blob/main/BuildingUsageVisualization.py). 
+
+Link to the Individual Project Repository [here](https://github.com/natasha-muromceww/Individual-Project). 
+
+
+
 # Group Projects:
 ## Addison Group Task
 
@@ -29,25 +48,6 @@ Link to repository with all 21 data visualizations [here](https://github.com/nat
 For the third group task I worked with Brian Masse on a political tweet ananlysis. We used a political tweet dataset linked [here](https://github.com/Brian-Masse/Political-Tweet-Analysis/tree/main/PART%20II/data) to create two data visualizations, one that was clear and easy to read and one that was purposefully hard to understand or misleading. We aimed to find the relationship between target audience and the contents of the tweets. Part of the work in making a visulization good or bad came in the formatting and presentation aspect of it, such as colors, labeling, and font readbility. The other half came form the way the numbers were manipulated in the visualization. So, for a good visulization, we kept he numbers as clean as possible in a "part-to-whole" format where as in the bad visualization we inverted the numbers to purposefully miselad wihtout changeing the raw data. 
 
 Link to full project repository [here](https://github.com/Brian-Masse/Political-Tweet-Analysis/tree/main/PART%20II). 
-
-
-
-# Individual Project:
-
-For the Individual Project I made a visulization of how many classes are held in each building during each class period of the day. I used Python and StreamLit to build a geomap of Andover with 3D visulizations for each building. On StreamLit the user can use the silder to view each period, scroll down for a photo comparison between each period. I collected data from the Winter Term 2022 Master Schedule and used tutorials on the StreamLit documentation (link: https://docs.streamlit.io/). 
-
-Link to StreamLit is [here](https://share.streamlit.io/natasha-muromceww/individual-project/main/BuildingUsageVisualization.py) and link to my code is [here](https://github.com/natasha-muromceww/Individual-Project/blob/main/BuildingUsageVisualization.py). 
-
-Link to the Individual Project Repository [here](https://github.com/natasha-muromceww/Individual-Project). 
-
-
-
-# Final Project:
-
-For the final project our assignment was to create a data visualization that could be placed on the large touchscreen in the library basement. When brainstorming how to make good use of such a public and interactive screen, I was inspired by JKE's words asking us as an Andover community to do better. I thought about how I could make a visualization that could spread positivity and lift the spirits of the student body. Working with Chenault Ellis and Claire de Saint Phalle, we came up with the idea of a compliment wall. We used Google Docs to build a survey that collected compliments, emails, and data on the compliments and put the recieved data into a Google Spreadsheet. We used StreamLit, Github, and Python to build a StreamLit App that shows a QR code for students to fill out the survey, recent compliments, and visualizations of the data collected. In order to collect data before the project was public, we asked our friends to fill out the survey and the results have been extremely positive. 
-
-Link to StreamLit [here](https://share.streamlit.io/natasha-muromceww/finalproject/main/StreamLitVis.py). 
-Link to Project Repository [here](https://github.com/natasha-muromceww/FinalProject). 
 
 
 
