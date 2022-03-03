@@ -28,6 +28,8 @@ Link to StreamLit is [here](https://share.streamlit.io/natasha-muromceww/individ
 
 Link to the Individual Project Repository [here](https://github.com/natasha-muromceww/Individual-Project). 
 
+Example photo:
+![..](https://github.com/natasha-muromceww/Individual-Project/blob/main/PAPeriod1.png)
 
 
 # Group Projects:
