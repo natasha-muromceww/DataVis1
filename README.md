@@ -122,20 +122,46 @@ This assignment was to create a physical distribution. I used data from my 2021 
 ## Day 9: Animal Distribution
 ![...](https://github.com/natasha-muromceww/DataVis1/blob/main/Day%209_%20Animal%20Distribution.jpg)
 
-WHen I thought of animals I thought of bugs because there are so many species. I used data from Wikipeida to compare the different amounts of species to their bug orders(a section of bug type) using image size comparison. 
+When I thought of animals I thought of bugs because there are so many species. I used data from Wikipeida to compare the different amounts of species to their bug orders(a section of bug type) using image size comparison. 
 Link to source [here](https://en.wikipedia.org/wiki/Insect). 
 
 ## Day 10: Distribution - Statistics
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.30.35%20PM.png)
 
+I found this cereal dataset and thought it would be interesting to play around with. This chart compares 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
 
 ## Day 11: Abstract Distribution
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.32.38%20PM.png)
+
+Continuing to use cereal dataset. For this chart I compared cereal's ratings because I think they are abstract in that many cereal prefernces are arbitrary. 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
 
 ## Day 12: Circular Distribution
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.34.34%20PM.png)
+
+Continuing to use cereal dataset. This is a pie chart of caloric values of cereals. 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
 
 ## Day 13: Strip Distribution
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%209.36.20%20AM.png)
+
+For this visualization I used a "toy dataset" from sk.learn to play around with some matplotlib features. This is a comparison between proline levels present in Wine.
 
 ## Day 14: Correlation
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.38.37%20PM.png)
+
+Continuing to use cereal dataset. Tried to find a correlation between sodium amount and caloric value, there was not. 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
 
 ## Day 15: Space
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.41.21%20PM.png)
+
+Continuing to use cereal dataset. I made this as a way to explore the negative space inside a chart. Looking at it hurts. 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
 
 ## Day 16: Multivariate
+![..](https://github.com/natasha-muromceww/DataVisPortfolio/blob/main/Screen%20Shot%202022-03-03%20at%2012.43.34%20PM.png)
+
+Continuing to use cereal dataset. 
+Source [here](https://www.kaggle.com/crawford/80-cereals). 
